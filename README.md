@@ -4,13 +4,13 @@
 I'm currently a senior and hope to become a professional programmer eventually.
 
 ## My Foo 🎯
-Mobile Game Enthusiast who played hundreds of games on their phone
+Love learning more about game development and graphic design
 
 ## Currently Learning
 - 🤖 CSC-113 AI Fundamentals
 
 ## Fun Fact
-I love building computers
+I built my own computer
 
 ## Find Me
 - 📫 Right here on GitHub!
